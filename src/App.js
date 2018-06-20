@@ -22,7 +22,7 @@ class App extends Component {
     }
     else
     {
-      if (!thisCard.clicked && this.state.currentScore === 12) return this.gameOver(true);
+      if (!thisCard.clicked && currentScore === 12) return this.gameOver(true);
        
       thisCard.clicked = true;
       this.setState(
