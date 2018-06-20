@@ -1,62 +1,62 @@
 [
     {
         "name": "Arnold",
-        "image": "images/Arnold.png",
+        "image": "./images/Arnold.png",
         "clicked": false
     },
     {
         "name": "CatDog",
-        "image": "images/CatDog.png",
+        "image": "./images/CatDog.png",
         "clicked": false
     },
     {
         "name": "Chuckie",
-        "image": "images/Chuckie.png",
+        "image": "./images/Chuckie.png",
         "clicked": false
     },
     {
         "name": "Eliza",
-        "image": "images/Eliza.png",
+        "image": "./images/Eliza.png",
         "clicked": false
     },
     {
         "name": "Helga",
-        "image": "images/Helga.png",
+        "image": "./images/Helga.png",
         "clicked": false
     },
     {
         "name": "Nigel",
-        "image": "images/Nigel.png",
+        "image": "./images/Nigel.png",
         "clicked": false
     },
     {
         "name": "Patrick",
-        "image": "images/Patrick.png",
+        "image": "./images/Patrick.png",
         "clicked": false
     },
     {
         "name": "Ren",
-        "image": "images/Ren.png",
+        "image": "./images/Ren.png",
         "clicked": false
     },
     {
         "name": "Sandy",
-        "image": "images/Sandy.png",
+        "image": "./images/Sandy.png",
         "clicked": false
     },
     {
         "name": "SpongeBob",
-        "image": "images/SpongeBob.png",
+        "image": "./images/SpongeBob.png",
         "clicked": false
     },
     {
         "name": "Stimpy",
-        "image": "images/Stimpy.png",
+        "image": "./images/Stimpy.png",
         "clicked": false
     },
     {
         "name": "Tommie",
-        "image": "images/Tommie.png",
+        "image": "./images/Tommie.png",
         "clicked": false
     }
 ]
